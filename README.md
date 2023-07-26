@@ -1,6 +1,6 @@
 # Papers I contributed to
 
-## Interaction2023 manuscript
+## Interaction2023
 
 Research papers submitted to INTERACTION2023 ([https://www.interaction-ipsj.org/2023/](https://www.interaction-ipsj.org/2023/))
 
@@ -8,7 +8,7 @@ Research papers submitted to INTERACTION2023 ([https://www.interaction-ipsj.org/
 
 This paper presents a simple analysis of house music compositions. Using sound source separation techniques, the drums, bass, vocals, and other elements were isolated, and their sound pressure was calculated. The analysis revealed that drums and bass greatly impact the music structure, while other parts have less influence. Opportunities for improving the identification of intro and outro sections were identified.
 
-## CMMR2023 manuscript
+## CMMR2023
 
 Research papers submitted to CMMR2023 ([https://cmmr2023.gttm.jp/](https://cmmr2023.gttm.jp/))
 
