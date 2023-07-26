@@ -1,6 +1,6 @@
 # Papers I contributed to
 
-### Interaction2023
+### INTERACTION2023
 
 Research papers submitted to INTERACTION2023 ([https://www.interaction-ipsj.org/2023/](https://www.interaction-ipsj.org/2023/))
 
