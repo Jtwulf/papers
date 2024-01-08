@@ -10,7 +10,7 @@ This paper presents a simple analysis of house music compositions. Using sound s
 
 ## CMMR2023
 
-Poster presentation at CMMR2023, an international conference. ([https://cmmr2023.gttm.jp/](https://cmmr2023.gttm.jp/))
+Poster presentation at CMMR2023, an international conference. I was also involved in the organization of the convention. ([https://cmmr2023.gttm.jp/](https://cmmr2023.gttm.jp/))
 
 #### Abstract
 
